@@ -1,6 +1,6 @@
 ## Demo
 
-You can view a live demo of the Accordion FAQ website [here](https://faq-accordion-main.pages.dev/)
+You can view a live demo [here](https://age-calculator-app-main-dz3.pages.dev/)
 
 ## Technologies Used
 
